@@ -29,6 +29,9 @@
 3. **Speech Rate**: 语音速度,例如"+20%"表示加快20%,"-10%"表示减慢10%
 4. **Voice Name**: 语音名称,默认为"zh-CN-XiaoxiaoMultilingualNeural"
 
+<img width="170" alt="image" src="https://github.com/user-attachments/assets/ccb16cba-174b-451b-ae84-57703078a730">
+
+
 ## 使用方法
 
 
