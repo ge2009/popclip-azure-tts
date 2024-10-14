@@ -12,31 +12,7 @@
 - 可选择不同的语音
 - 默认使用中文语音(zh-CN-XiaoxiaoMultilingualNeural)
 
-## 安装
-
-1. 确保您已安装PopClip
-2. 下载`tts`脚本文件
-3. 将`tts`文件拖放到PopClip的扩展配置窗口中
-
-
-
-## 配置
-
-在PopClip的设置中,您需要配置以下选项:
-
-1. **Azure Region**: 您的Azure TTS服务所在的区域
-2. **Azure Subscription Key**: 您的Azure TTS服务订阅密钥
-3. **Speech Rate**: 语音速度,例如"+20%"表示加快20%,"-10%"表示减慢10%
-4. **Voice Name**: 语音名称,默认为"zh-CN-XiaoxiaoMultilingualNeural"
-
-<img width="170" alt="image" src="https://github.com/user-attachments/assets/ccb16cba-174b-451b-ae84-57703078a730">
-
-
-## 使用方法
-
-
-
-
+## 安装方法
 
 ```
 #!/bin/zsh
@@ -82,6 +58,22 @@ rm "$temp_audio_file"
 - 选择要转换为语音的文本
 - 点击PopClip菜单中的Azure TTS图标
 - 插件将使用Azure TTS服务将文本转换为语音并播放
+
+
+
+## 配置
+
+在PopClip的设置中,您需要配置以下选项:
+
+1. **Azure Region**: 您的Azure TTS服务所在的区域
+2. **Azure Subscription Key**: 您的Azure TTS服务订阅密钥
+3. **Speech Rate**: 语音速度,例如"+20%"表示加快20%,"-10%"表示减慢10%
+4. **Voice Name**: 语音名称,默认为"zh-CN-XiaoxiaoMultilingualNeural"
+
+<img width="170" alt="image" src="https://github.com/user-attachments/assets/ccb16cba-174b-451b-ae84-57703078a730">
+
+
+
 
 ## 注意事项
 
