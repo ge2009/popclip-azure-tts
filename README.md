@@ -73,7 +73,7 @@ rm "$temp_audio_file"
 - 选中以上代码，在弹出的popclip界面中点击安装，如下动图所示
 
 
-![安装](https://res.craft.do/user/full/f3be568a-34ab-2b61-a799-bb5c9d6f8f77/doc/B888CE2A-C978-4EBE-B50C-175C38CD0188/C7434104-1064-4718-A98F-D6AD49895407_2/LkcH9QAyyyOWQkwbxceKBqqflgC3aF1jLq09ulvfaR8z/AnimatedImage.gif)
+![安装](https://github.com/ge2009/popclip-azure-tts/blob/master/installtts.gif)
 
   
 - 选择要转换为语音的文本
