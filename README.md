@@ -31,6 +31,9 @@
 
 ## 使用方法
 
+
+![安装](https://github.com/ge2009/popclip-azure-tts/blob/master/installtts.gif)
+
 ```
 #!/bin/zsh
 # #popclip
@@ -71,11 +74,6 @@ afplay "$temp_audio_file"
 rm "$temp_audio_file"
 ```
 - 选中以上代码，在弹出的popclip界面中点击安装，如下动图所示
-
-
-![安装](https://github.com/ge2009/popclip-azure-tts/blob/master/installtts.gif)
-
-  
 - 选择要转换为语音的文本
 - 点击PopClip菜单中的Azure TTS图标
 - 插件将使用Azure TTS服务将文本转换为语音并播放
